@@ -12,4 +12,6 @@ print("Barra Normal: /")
 print("Barra Invertida: \\")
 
 #input
-input("Cual es tu nombre? ")
+print(input("Cual es tu nombre? "))
+print("tu apeliido es: "+ input("Cual es tu apellido? ")) 
+
